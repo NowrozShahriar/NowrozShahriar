@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NowrozShahriar
-- 👀 I’m interested in ... Backend Development
+- 👀 I’m interested in ... Latest techs that makes life easier.
 - 🌱 I’m currently learning ... MERN stack
 - 💞️ I’m looking to collaborate on ... things related to javascript or web development
 - 📫 How to reach me ... nowroz.shahriar@gmail.com
